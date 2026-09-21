@@ -112,10 +112,11 @@
   document.head.appendChild(style);
 
   const scripts = [
-    {name:"Ed-Shed Cheats",url:"https://raw.githubusercontent.com/eggman1243/Fun-Cool-Stuff/refs/heads/main/spellingshed"},
-    {name:"Robux Spoofer",url:"https://raw.githubusercontent.com/eggman1243/Fun-Cool-Stuff/refs/heads/main/robuxspoofer"},
-    {name:"Html Page Downloader",url:"https://raw.githubusercontent.com/eggman1243/Fun-Cool-Stuff/refs/heads/main/pagedownloader"},
-    {name:"Roblox Profile Troll",url:"https://raw.githubusercontent.com/eggman1243/Fun-Cool-Stuff/refs/heads/main/stupidprofileshowerthingy"}
+    {name:"Ed-Shed Cheats",url:"https://raw.githubusercontent.com/lameman12/Fun-Cool-Stuff/refs/heads/main/spellingshed"},
+    {name:"Robux Spoofer",url:"https://raw.githubusercontent.com/lameman12/Fun-Cool-Stuff/refs/heads/main/robuxspoofer"},
+    {name:"Html Page Downloader",url:"https://raw.githubusercontent.com/lameman12/Fun-Cool-Stuff/refs/heads/main/pagedownloader"},
+    {name:"Language Nut Completer",url:"https://raw.githubusercontent.com/lameman12/Fun-Cool-Stuff/refs/heads/main/languagenutcheat"},
+    {name:"Roblox Profile Troll",url:"https://raw.githubusercontent.com/lameman12/Fun-Cool-Stuff/refs/heads/main/stupidprofileshowerthingy"}
   ];
 
   const gui=document.createElement("div");
