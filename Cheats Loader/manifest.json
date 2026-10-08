@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Cheat-Stuff Loader",
-  "version": "6.4.0",
+  "version": "6.5.0",
   "permissions": ["scripting", "activeTab"],
   "host_permissions": ["<all_urls>"],
   "action": {
