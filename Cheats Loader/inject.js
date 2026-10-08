@@ -111,13 +111,14 @@
   `;
   document.head.appendChild(style);
 
-  const scripts = [
-    {name:"Ed-Shed Cheats",url:"https://raw.githubusercontent.com/lameman12/Fun-Cool-Stuff/refs/heads/main/spellingshed"},
-    {name:"Robux Spoofer",url:"https://raw.githubusercontent.com/lameman12/Fun-Cool-Stuff/refs/heads/main/robuxspoofer"},
-    {name:"Html Page Downloader",url:"https://raw.githubusercontent.com/lameman12/Fun-Cool-Stuff/refs/heads/main/pagedownloader"},
-    {name:"Language Nut Completer",url:"https://raw.githubusercontent.com/lameman12/Fun-Cool-Stuff/refs/heads/main/languagenutcheat"},
-    {name:"Roblox Profile Troll",url:"https://raw.githubusercontent.com/lameman12/Fun-Cool-Stuff/refs/heads/main/stupidprofileshowerthingy"}
-  ];
+const scripts = [
+  {name:"Ed-Shed Cheats",url:"https://raw.githubusercontent.com/lameman12/Fun-Cool-Stuff/refs/heads/main/spellingshed"},
+  {name:"Robux Spoofer",url:"https://raw.githubusercontent.com/lameman12/Fun-Cool-Stuff/refs/heads/main/robuxspoofer"},
+  {name:"Html Page Downloader",url:"https://raw.githubusercontent.com/lameman12/Fun-Cool-Stuff/refs/heads/main/pagedownloader"},
+  {name:"Language Nut Completer",url:"https://raw.githubusercontent.com/lameman12/Fun-Cool-Stuff/refs/heads/main/languagenutcheat"},
+  {name:"Roblox Profile Troll",url:"https://raw.githubusercontent.com/lameman12/Fun-Cool-Stuff/refs/heads/main/stupidprofileshowerthingy"},
+  {name:"Sparx Select Fix",url:"https://raw.githubusercontent.com/lameman12/Fun-Cool-Stuff/refs/heads/main/sparxselectfix"}
+];
 
   const gui=document.createElement("div");
   gui.id="fcs-gui";
